@@ -1,1 +1,6 @@
-# exp-cont.github.io
+---
+layout: home
+title: exp-cont
+permalink: /
+---
+
